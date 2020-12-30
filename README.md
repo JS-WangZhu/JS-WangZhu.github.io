@@ -1,6 +1,6 @@
 ## Welcome to My Website
 
-### Love coding,love thinking
+### Love coding, love thinking
 
 #### The url is https://www.iwangzhu.top
 
